@@ -1,9 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Roboto');
+
 body{
-  background-color: purple;
+  font-family: 'Roboto', sans-serif;
 }
 
-@media only screen and (max-width: 800px) {
-  body {
-  background-color: yellow;
- }
+h1, h2, h3 {
+  font-family: 'Lato', serif;
 }
